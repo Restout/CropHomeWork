@@ -1,3 +1,4 @@
 # CropHomeWork
-# Шевцов Артем Евгеньевич 
-# tg: @MilkyBeer
+ **Шевцов Артем Евгеньевич**
+ **tg: @MilkyBeer**
+
