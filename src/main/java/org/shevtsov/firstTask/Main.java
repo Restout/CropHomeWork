@@ -1,4 +1,4 @@
-package org.example.firstTask;
+package org.shevtsov.firstTask;
 
 public class Main {
     public static void main(String[] args) {
