@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97fcf1d7-36e1-4fa8-8aeb-5c3b293e5924" name="Changes" comment="Made:Task 4">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="97fcf1d7-36e1-4fa8-8aeb-5c3b293e5924" name="Changes" comment="Fix:Task 4">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/shevtsov/task5/Appliance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/shevtsov/task5/Fridge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/shevtsov/task5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/shevtsov/task5/Stove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/shevtsov/task5/VacuumCleaner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/shevtsov/task5/WashingMachine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/shevtsov/fourthTask/ArifmeticalProgression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/shevtsov/fourthTask/ArifmeticalProgression.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +79,7 @@
       <workItem from="1696928836729" duration="8000" />
       <workItem from="1697579779240" duration="1528000" />
       <workItem from="1698231300772" duration="1084000" />
-      <workItem from="1698233548704" duration="358000" />
+      <workItem from="1698233548704" duration="2689000" />
     </task>
     <task id="LOCAL-00001" summary="Change package lol">
       <created>1697579839231</created>
@@ -98,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697580656872</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Fix:Task 4">
+      <created>1698234016267</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698234016267</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,6 +130,7 @@
     <MESSAGE value="Change package lol" />
     <MESSAGE value="Made:Task 2" />
     <MESSAGE value="Made:Task 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made:Task 4" />
+    <MESSAGE value="Fix:Task 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix:Task 4" />
   </component>
 </project>
