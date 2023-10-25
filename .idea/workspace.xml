@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97fcf1d7-36e1-4fa8-8aeb-5c3b293e5924" name="Changes" comment="Fix:Task 4">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/shevtsov/task5/Appliance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/shevtsov/task5/Fridge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/shevtsov/task5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/shevtsov/task5/Stove.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/shevtsov/task5/VacuumCleaner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/shevtsov/task5/WashingMachine.java" afterDir="false" />
+    <list default="true" id="97fcf1d7-36e1-4fa8-8aeb-5c3b293e5924" name="Changes" comment="Made:Task 5">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/shevtsov/task6/AnnotatedImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/shevtsov/task6/Annotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/shevtsov/task6/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/shevtsov/task6/Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/shevtsov/task6/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/shevtsov/task6/Rectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +21,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -61,10 +62,15 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.archetype.catalogs",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.shevtsov.task6" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -79,7 +85,7 @@
       <workItem from="1696928836729" duration="8000" />
       <workItem from="1697579779240" duration="1528000" />
       <workItem from="1698231300772" duration="1084000" />
-      <workItem from="1698233548704" duration="2689000" />
+      <workItem from="1698233548704" duration="4743000" />
     </task>
     <task id="LOCAL-00001" summary="Change package lol">
       <created>1697579839231</created>
@@ -109,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698234016267</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Made:Task 5">
+      <created>1698238408910</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698238408910</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +144,7 @@
     <MESSAGE value="Made:Task 2" />
     <MESSAGE value="Made:Task 4" />
     <MESSAGE value="Fix:Task 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix:Task 4" />
+    <MESSAGE value="Made:Task 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made:Task 5" />
   </component>
 </project>
